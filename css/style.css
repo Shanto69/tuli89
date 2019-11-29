@@ -354,7 +354,8 @@ li{
 	text-decoration:underline;
 }
 .slider{
-	width:98%;
+	width:100%;
+	margin:auto;
 }
 .slider_right{
 	border:3px solid #fff;
