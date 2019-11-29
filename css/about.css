@@ -32,7 +32,7 @@ li{
 	width: 100%;
 }
 .container{
-	padding:0 80px;
+	padding:0;
 }
 .header_area{
 	overflow:hidden;
@@ -431,7 +431,7 @@ hr{
 }
 
 .container{
-	padding:0 80px;
+	padding:0;
 }
 .header_area{
 	overflow:hidden;
